@@ -1,7 +1,7 @@
 # ML-Based Biomarker Identification for Early Cardiovascular Disease Detection
 
 > **Topic:** Machine Learning–Based Biomarker Identification for Early Disease Detection (Cardiovascular)  
-> **Dataset:** UCI Heart Disease Dataset — Cleveland (Kaggle / ketangangal)
+> **Dataset:** UCI Heart Disease Dataset — Cleveland (Kaggle)
 
 ---
 
