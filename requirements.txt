@@ -1,0 +1,22 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Requirements — ML Biomarker Identification (Cardiovascular Disease)
+#  Install:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core scientific stack
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+
+# Machine learning
+scikit-learn>=1.2
+
+# Tree-based ensemble + built-in feature importance
+xgboost>=1.7
+
+# Model explainability (SHAP values, beeswarm, dependence plots)
+shap>=0.42
+
+# Visualisation
+matplotlib>=3.6
+seaborn>=0.12
