@@ -1,18 +1,3 @@
-"""
-================================================================================
-  ML-BASED BIOMARKER IDENTIFICATION FOR EARLY CARDIOVASCULAR DISEASE DETECTION
-  ─────────────────────────────────────────────────────────────────────────────
-  Dataset  : UCI Heart Disease Dataset  (Cleveland / Kaggle – ketangangal)
-  Topic    : Machine Learning–Based Biomarker Identification
-  Models   : Logistic Regression (LASSO/Ridge), Random Forest, Gradient
-             Boosting, XGBoost, SVM, KNN, Naïve Bayes, AdaBoost, Decision
-             Tree, Voting Ensemble
-  Key Extras: LASSO regularisation path, SHAP explainability, composite
-             multi-method biomarker ranking, full statistical testing
-  Output   : 12+ publication-quality figures + 4 CSVs + console report
-================================================================================
-"""
-
 # ─────────────────────────────────────────────────────────────────────────────
 #  SECTION 0 – IMPORTS
 # ─────────────────────────────────────────────────────────────────────────────
