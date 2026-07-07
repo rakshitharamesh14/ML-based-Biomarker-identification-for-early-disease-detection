@@ -1,1 +1,4 @@
-
+cd......\Downloads\cvd_biomarker_ml_project\cvd_project
+pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
+python cardiovascular_biomarker_ml.py
